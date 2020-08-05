@@ -1,0 +1,11 @@
+name: SimpleJobs
+author: Stellrow
+main: sc.main.Stellrow.SimpleJobs.JobsMain
+version: 1.0
+api-version: 1.13
+depend: [Vault]
+
+commands:
+    jobs:
+        usage: /jobs
+        description: Default command

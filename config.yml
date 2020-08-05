@@ -1,0 +1,26 @@
+Messages:
+    selectedJob: '&7You succesfully picked the job!'
+    cooldownMsg: '&cYou can only change the job every 12 hours!'
+    alreadyActive: '&7You already have this job!'
+    
+Money:
+    Miner:
+        DIAMOND_ORE: 20
+        EMERALD_ORE: 20
+        LAPIS_ORE: 15
+        REDSTONE_ORE: 15
+        GOLD_ORE: 10
+        IRON_ORE: 5
+        COAL_ORE: 5
+    Hunter:
+        ENDERMAN: 30
+        CREEPER: 25
+        ZOMBIE: 15
+        SKELETON: 15
+        SPIDER: 15
+        COW: 10
+        SHEEP: 10
+        CHICKEN: 10
+        PIG: 10
+    Woodcutter:
+        LOG: 5

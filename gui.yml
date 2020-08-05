@@ -1,0 +1,25 @@
+MainInventory:
+    Jobs:
+        Miner:
+            Type: DIAMOND_PICKAXE
+            Name: '&7Miner'
+            Lore:
+                - '&7Pick the miner job!'
+                - '&7you will receive money breaking different types of ores'
+        Hunter:
+            Type: DIAMOND_SWORD
+            Name: '&cHunter'
+            Lore:
+                - '&7Pick the hunter job!'
+                - '&7you will receive money killing monsters'
+        Woodcutter:
+            Type: DIAMOND_AXE
+            Name: '&6Woodcutter'
+            Lore:
+                - '&7Pick the woodcutter job!'
+                - '&7you will receive money cutting down logs'
+        Activ:
+            Type: BARRIER
+            Name: '&7Active job'
+            Lore:
+                - '&7You have this job active right now!'
